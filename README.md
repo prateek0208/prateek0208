@@ -59,7 +59,7 @@
 | Project | Description | Tech |
 |:---|:---|:---|
 | 🏥 **Deep-Fake Detection in Medical Imaging** | AI framework detecting altered MRI scans — **99% accuracy** | `PyTorch` `CNN` `DCGAN` `Gradio` |
-| 🧠 **Parkinson's Disease Detection** | ML system using 22 vocal biomarkers — **94.2% accuracy** | `Scikit-learn` `SHAP` `LIME` |
+| 🧠 **[Parkinson's Disease Detection](https://parkinsons-disease-detection-hazel.vercel.app)** | XAI-powered diagnosis from 22 vocal biomarkers — **94.87% accuracy** — [Live Demo](https://parkinsons-disease-detection-hazel.vercel.app) | `Scikit-learn` `SHAP` `Flask` `Vercel` |
 | 🤖 **C.H.A.O.S. AI Desktop Assistant** | Voice AI assistant with Gemini API — **20+ commands, 95% accuracy** | `Python` `Gemini API` |
 | 🌾 **AgriApp 2.0 (AgriTech AI)** | Smart farming: crop disease detection, Mandi pricing, satellite NDVI | `Streamlit` `PyTorch` `OpenCV` |
 
@@ -68,7 +68,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=prateek0208&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=prateek0208&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prateek0208&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prateek0208&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=Jupyter%20Notebook)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=prateek0208&theme=radical&no-frame=true&no-bg=false&margin-w=4)
